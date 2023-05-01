@@ -1,0 +1,182 @@
+[ 
+    {
+      "name": "Marva Cain",
+      "profile_picture": "https://example.com/chef2.jpg",
+      "year_of_experience": 42,
+      "no_of_recipes": 5,
+      "bio": "Quis voluptate duis laborum pariatur. Cupidatat consectetur ut culpa irure dolor minim eiusmod ipsum do anim magna dolor laborum. Cupidatat deserunt enim labore sunt adipisicing deserunt.\r\nLaboris ea aute aliquip mollit nostrud ut velit in anim elit Lorem laboris sint. Amet laborum sit laborum culpa sit ipsum. Occaecat magna et minim nostrud mollit fugiat tempor duis et eiusmod. Elit nisi sit reprehenderit adipisicing consequat. Deserunt eu pariatur labore est in irure nulla quis sunt non. Consectetur cupidatat cillum minim nostrud fugiat ea sit ea dolor ipsum non. Voluptate excepteur nulla sit aliqua sunt fugiat sit aliqua labore sint do esse incididunt nostrud.\r\n",
+      "likes": 6119,
+      "recipes": [
+        {
+          "name": "Creme Brulee",
+          "banner_image": "https://example.com/recipe3.jpg"
+        },
+        {
+          "name": "Shrimp Scampi",
+          "banner_image": "https://example.com/recipe2.jpg"
+        },
+        {
+          "name": "Chicken Alfredo",
+          "banner_image": "https://example.com/recipe2.jpg"
+        },
+        {
+          "name": "Cobb Salad",
+          "banner_image": "https://example.com/recipe2.jpg"
+        },
+        {
+          "name": "Stuffed Peppers",
+          "banner_image": "https://example.com/recipe3.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Robinson Wallace",
+      "profile_picture": "https://example.com/chef6.jpg",
+      "year_of_experience": 18,
+      "no_of_recipes": 5,
+      "bio": "Duis amet ullamco non officia magna. Aute do labore id reprehenderit veniam fugiat in nisi cillum in magna ut. Irure sit quis magna sint ipsum ut mollit aliquip veniam laborum enim incididunt reprehenderit aliquip. Cupidatat ut consectetur anim reprehenderit eiusmod tempor dolor fugiat minim ad Lorem officia ut.\r\nVelit ullamco laboris elit cillum occaecat minim laboris ex adipisicing ex aute consectetur excepteur ipsum. Consequat minim fugiat esse occaecat aliquip aliqua. Sit minim laborum do ipsum sit ullamco id ad aute cillum. Veniam ipsum cupidatat fugiat eu ut anim dolore qui. Ad nulla ad ipsum dolore mollit veniam labore incididunt. Commodo reprehenderit officia dolor mollit amet excepteur consectetur officia non anim do duis reprehenderit ipsum.\r\n",
+      "likes": 2580,
+      "recipes": [
+        {
+          "name": "Caesar Salad",
+          "banner_image": "https://example.com/recipe3.jpg"
+        },
+        {
+          "name": "Spaghetti Bolognese",
+          "banner_image": "https://example.com/recipe1.jpg"
+        },
+        {
+          "name": "Cheesecake",
+          "banner_image": "https://example.com/recipe1.jpg"
+        },
+        {
+          "name": "Spinach Quiche",
+          "banner_image": "https://example.com/recipe5.jpg"
+        },
+        {
+          "name": "Beef Fajitas",
+          "banner_image": "https://example.com/recipe4.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Brady Lopez",
+      "profile_picture": "https://example.com/chef6.jpg",
+      "year_of_experience": 11,
+      "no_of_recipes": 5,
+      "bio": "Consequat in in ad nisi ex est amet. Occaecat sunt aute consequat ut. Qui fugiat irure ea officia sint sunt aliquip exercitation aliqua cupidatat duis reprehenderit. Ad pariatur occaecat aute ex voluptate pariatur adipisicing culpa nulla labore nostrud. Qui deserunt ea pariatur mollit esse adipisicing ipsum. Qui consectetur do sit culpa in occaecat sit fugiat officia sit culpa ex commodo.\r\nEnim deserunt laborum velit ut proident excepteur. Deserunt magna do voluptate velit proident est proident cillum occaecat irure in Lorem ex. Et ex aliquip minim laborum. Tempor officia ad enim est excepteur tempor laborum qui. Ut eu non pariatur in fugiat id esse cupidatat irure amet commodo ad consectetur veniam.\r\n",
+      "likes": 7762,
+      "recipes": [
+        {
+          "name": "Grilled Steak",
+          "banner_image": "https://example.com/recipe3.jpg"
+        },
+        {
+          "name": "Beef Pot Roast",
+          "banner_image": "https://example.com/recipe4.jpg"
+        },
+        {
+          "name": "Beef Tacos",
+          "banner_image": "https://example.com/recipe4.jpg"
+        },
+        {
+          "name": "Spinach Quiche",
+          "banner_image": "https://example.com/recipe3.jpg"
+        },
+        {
+          "name": "Chicken Enchiladas",
+          "banner_image": "https://example.com/recipe5.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Annette Carson",
+      "profile_picture": "https://example.com/chef3.jpg",
+      "year_of_experience": 34,
+      "no_of_recipes": 5,
+      "bio": "Ea esse proident ullamco cillum fugiat occaecat Lorem dolor occaecat amet nostrud cillum. Sint est consequat cupidatat laboris veniam cupidatat irure enim reprehenderit Lorem. Voluptate culpa qui commodo elit aliqua magna occaecat. Id sit duis aliquip amet ipsum dolore nulla aliqua excepteur et aute ullamco. Aute deserunt quis fugiat elit commodo cupidatat cillum sunt et. Enim qui laborum nulla anim ipsum exercitation.\r\nCommodo exercitation duis et duis ex sunt commodo aute. Cupidatat aliqua irure occaecat culpa. Magna pariatur magna ipsum Lorem commodo commodo officia.\r\n",
+      "likes": 2097,
+      "recipes": [
+        {
+          "name": "Apple Pie",
+          "banner_image": "https://example.com/recipe5.jpg"
+        },
+        {
+          "name": "Roast Chicken",
+          "banner_image": "https://example.com/recipe5.jpg"
+        },
+        {
+          "name": "Beef Wellington",
+          "banner_image": "https://example.com/recipe3.jpg"
+        },
+        {
+          "name": "Pad Thai",
+          "banner_image": "https://example.com/recipe1.jpg"
+        },
+        {
+          "name": "Chicken Enchiladas",
+          "banner_image": "https://example.com/recipe2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Rebecca Hendricks",
+      "profile_picture": "https://example.com/chef4.jpg",
+      "year_of_experience": 15,
+      "no_of_recipes": 5,
+      "bio": "Velit consectetur eu labore consequat laboris culpa ad amet eiusmod qui. Nostrud aliquip veniam fugiat minim laborum quis ea voluptate. Ipsum exercitation et voluptate dolor. Labore laboris ex deserunt enim reprehenderit cupidatat magna. Ipsum eu aliqua aliqua eu mollit voluptate esse do occaecat eu veniam sunt mollit irure.\r\nNisi irure elit deserunt aliquip. Reprehenderit cillum excepteur aliquip officia ex elit culpa sunt fugiat. Dolor mollit fugiat in velit voluptate labore reprehenderit Lorem voluptate. Voluptate ex velit pariatur ex.\r\n",
+      "likes": 4016,
+      "recipes": [
+        {
+          "name": "Mushroom Risotto",
+          "banner_image": "https://example.com/recipe5.jpg"
+        },
+        {
+          "name": "Pesto Pasta",
+          "banner_image": "https://example.com/recipe3.jpg"
+        },
+        {
+          "name": "Greek Salad",
+          "banner_image": "https://example.com/recipe4.jpg"
+        },
+        {
+          "name": "Beef Kebabs",
+          "banner_image": "https://example.com/recipe1.jpg"
+        },
+        {
+          "name": "Salmon Cakes",
+          "banner_image": "https://example.com/recipe2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nettie Mcintyre",
+      "profile_picture": "https://example.com/chef6.jpg",
+      "year_of_experience": 40,
+      "no_of_recipes": 5,
+      "bio": "Eu pariatur laborum tempor culpa laborum. Eu pariatur in ad do sunt Lorem et excepteur non amet occaecat tempor. Aliquip ut duis esse duis dolor exercitation commodo proident tempor minim do dolor cillum. Proident quis fugiat nisi id culpa incididunt ullamco nisi laboris. Aute aliqua veniam cupidatat ullamco sint tempor culpa laborum deserunt sint ipsum est magna veniam. Exercitation labore minim adipisicing est nulla cillum reprehenderit pariatur fugiat sit quis.\r\nAnim commodo culpa ex mollit enim qui velit consequat. Proident est magna Lorem aliquip anim laboris non Lorem fugiat cupidatat aliqua id magna aute. Ea qui do fugiat culpa cillum. Consequat aute culpa occaecat laboris cupidatat veniam. Pariatur culpa ipsum magna sunt occaecat non minim. Laboris consequat ullamco deserunt et aliquip laboris Lorem do consectetur.\r\n",
+      "likes": 4142,
+      "recipes": [
+        {
+          "name": "Fish Tacos",
+          "banner_image": "https://example.com/recipe5.jpg"
+        },
+        {
+          "name": "Tiramisu",
+          "banner_image": "https://example.com/recipe3.jpg"
+        },
+        {
+          "name": "Quiche Lorraine",
+          "banner_image": "https://example.com/recipe4.jpg"
+        },
+        {
+          "name": "Vegetable Lasagna",
+          "banner_image": "https://example.com/recipe3.jpg"
+        },
+        {
+          "name": "Tomato Soup",
+          "banner_image": "https://example.com/recipe4.jpg"
+        }
+      ]
+    }
+  ]
