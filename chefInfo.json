@@ -1,183 +1,562 @@
-[ 
-    {
-      "id": 1,  
-      "name": "Marva Cain",
-      "profile_picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=1380&t=st=1683007163~exp=1683007763~hmac=ac0d8f9b9ca567911bbcf79398d93d5df8d271c383f5aa8798a87e4b75de4106",
-      "year_of_experience": 42,
-      "no_of_recipes": 5,
-      "bio": "Quis voluptate duis laborum pariatur. Cupidatat consectetur ut culpa irure dolor minim eiusmod ipsum do anim magna dolor laborum. Cupidatat deserunt enim labore sunt adipisicing deserunt.\r\nLaboris ea aute aliquip mollit nostrud ut velit in anim elit Lorem laboris sint. Amet laborum sit laborum culpa sit ipsum. Occaecat magna et minim nostrud mollit fugiat tempor duis et eiusmod. Elit nisi sit reprehenderit adipisicing consequat. Deserunt eu pariatur labore est in irure nulla quis sunt non. Consectetur cupidatat cillum minim nostrud fugiat ea sit ea dolor ipsum non. Voluptate excepteur nulla sit aliqua sunt fugiat sit aliqua labore sint do esse incididunt nostrud.\r\n",
-      "likes": 6119,
-      "recipes": [
-        {
-          "name": "Creme Brulee",
-          "banner_image": "https://example.com/recipe3.jpg"
-        },
-        {
-          "name": "Shrimp Scampi",
-          "banner_image": "https://example.com/recipe2.jpg"
-        },
-        {
-          "name": "Chicken Alfredo",
-          "banner_image": "https://example.com/recipe2.jpg"
-        },
-        {
-          "name": "Cobb Salad",
-          "banner_image": "https://example.com/recipe2.jpg"
-        },
-        {
-          "name": "Stuffed Peppers",
-          "banner_image": "https://example.com/recipe3.jpg"
-        }
-      ]
-    },
-    {  "id": 2,
-      "name": "Robinson Wallace",
-      "profile_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?t=st=1683007158~exp=1683007758~hmac=ee44e778b4560f8e1bdee2d0c3710218d26acbeb3be4e9c12cca6b170cede946",
-      "year_of_experience": 18,
-      "no_of_recipes": 5,
-      "bio": "Duis amet ullamco non officia magna. Aute do labore id reprehenderit veniam fugiat in nisi cillum in magna ut. Irure sit quis magna sint ipsum ut mollit aliquip veniam laborum enim incididunt reprehenderit aliquip. Cupidatat ut consectetur anim reprehenderit eiusmod tempor dolor fugiat minim ad Lorem officia ut.\r\nVelit ullamco laboris elit cillum occaecat minim laboris ex adipisicing ex aute consectetur excepteur ipsum. Consequat minim fugiat esse occaecat aliquip aliqua. Sit minim laborum do ipsum sit ullamco id ad aute cillum. Veniam ipsum cupidatat fugiat eu ut anim dolore qui. Ad nulla ad ipsum dolore mollit veniam labore incididunt. Commodo reprehenderit officia dolor mollit amet excepteur consectetur officia non anim do duis reprehenderit ipsum.\r\n",
-      "likes": 2580,
-      "recipes": [
-        {
-          "name": "Caesar Salad",
-          "banner_image": "https://example.com/recipe3.jpg"
-        },
-        {
-          "name": "Spaghetti Bolognese",
-          "banner_image": "https://example.com/recipe1.jpg"
-        },
-        {
-          "name": "Cheesecake",
-          "banner_image": "https://example.com/recipe1.jpg"
-        },
-        {
-          "name": "Spinach Quiche",
-          "banner_image": "https://example.com/recipe5.jpg"
-        },
-        {
-          "name": "Beef Fajitas",
-          "banner_image": "https://example.com/recipe4.jpg"
-        }
-      ]
-    },
-    { "id": 3,
-      "name": "Brady Lopez",
-      "profile_picture": "https://img.freepik.com/free-photo/image-cheerful-young-cook-uniform-standing-isolated-grey-wall_171337-5340.jpg?t=st=1683007158~exp=1683007758~hmac=17af730f7632cf81eb3a8624902175b9e2dc045156850525faccfb5ed18d00fb",
-      "year_of_experience": 11,
-      "no_of_recipes": 5,
-      "bio": "Consequat in in ad nisi ex est amet. Occaecat sunt aute consequat ut. Qui fugiat irure ea officia sint sunt aliquip exercitation aliqua cupidatat duis reprehenderit. Ad pariatur occaecat aute ex voluptate pariatur adipisicing culpa nulla labore nostrud. Qui deserunt ea pariatur mollit esse adipisicing ipsum. Qui consectetur do sit culpa in occaecat sit fugiat officia sit culpa ex commodo.\r\nEnim deserunt laborum velit ut proident excepteur. Deserunt magna do voluptate velit proident est proident cillum occaecat irure in Lorem ex. Et ex aliquip minim laborum. Tempor officia ad enim est excepteur tempor laborum qui. Ut eu non pariatur in fugiat id esse cupidatat irure amet commodo ad consectetur veniam.\r\n",
-      "likes": 7762,
-      "recipes": [
-        {
-          "name": "Grilled Steak",
-          "banner_image": "https://example.com/recipe3.jpg"
-        },
-        {
-          "name": "Beef Pot Roast",
-          "banner_image": "https://example.com/recipe4.jpg"
-        },
-        {
-          "name": "Beef Tacos",
-          "banner_image": "https://example.com/recipe4.jpg"
-        },
-        {
-          "name": "Spinach Quiche",
-          "banner_image": "https://example.com/recipe3.jpg"
-        },
-        {
-          "name": "Chicken Enchiladas",
-          "banner_image": "https://example.com/recipe5.jpg"
-        }
-      ]
-    },
-    { "id": 4,
-      "name": "Annette Carson",
-      "profile_picture": "https://t3.ftcdn.net/jpg/03/52/28/98/360_F_352289873_KwQHjXfSdndjNjPNmJqzrzgEuBuVUSjf.jpg",
-      "year_of_experience": 34,
-      "no_of_recipes": 5,
-      "bio": "Ea esse proident ullamco cillum fugiat occaecat Lorem dolor occaecat amet nostrud cillum. Sint est consequat cupidatat laboris veniam cupidatat irure enim reprehenderit Lorem. Voluptate culpa qui commodo elit aliqua magna occaecat. Id sit duis aliquip amet ipsum dolore nulla aliqua excepteur et aute ullamco. Aute deserunt quis fugiat elit commodo cupidatat cillum sunt et. Enim qui laborum nulla anim ipsum exercitation.\r\nCommodo exercitation duis et duis ex sunt commodo aute. Cupidatat aliqua irure occaecat culpa. Magna pariatur magna ipsum Lorem commodo commodo officia.\r\n",
-      "likes": 2097,
-      "recipes": [
-        {
-          "name": "Apple Pie",
-          "banner_image": "https://example.com/recipe5.jpg"
-        },
-        {
-          "name": "Roast Chicken",
-          "banner_image": "https://example.com/recipe5.jpg"
-        },
-        {
-          "name": "Beef Wellington",
-          "banner_image": "https://example.com/recipe3.jpg"
-        },
-        {
-          "name": "Pad Thai",
-          "banner_image": "https://example.com/recipe1.jpg"
-        },
-        {
-          "name": "Chicken Enchiladas",
-          "banner_image": "https://example.com/recipe2.jpg"
-        }
-      ]
-    },
-    { "id": 5,
-      "name": "Rebecca Hendricks",
-      "profile_picture": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
-      "year_of_experience": 15,
-      "no_of_recipes": 5,
-      "bio": "Velit consectetur eu labore consequat laboris culpa ad amet eiusmod qui. Nostrud aliquip veniam fugiat minim laborum quis ea voluptate. Ipsum exercitation et voluptate dolor. Labore laboris ex deserunt enim reprehenderit cupidatat magna. Ipsum eu aliqua aliqua eu mollit voluptate esse do occaecat eu veniam sunt mollit irure.\r\nNisi irure elit deserunt aliquip. Reprehenderit cillum excepteur aliquip officia ex elit culpa sunt fugiat. Dolor mollit fugiat in velit voluptate labore reprehenderit Lorem voluptate. Voluptate ex velit pariatur ex.\r\n",
-      "likes": 4016,
-      "recipes": [
-        {
-          "name": "Mushroom Risotto",
-          "banner_image": "https://example.com/recipe5.jpg"
-        },
-        {
-          "name": "Pesto Pasta",
-          "banner_image": "https://example.com/recipe3.jpg"
-        },
-        {
-          "name": "Greek Salad",
-          "banner_image": "https://example.com/recipe4.jpg"
-        },
-        {
-          "name": "Beef Kebabs",
-          "banner_image": "https://example.com/recipe1.jpg"
-        },
-        {
-          "name": "Salmon Cakes",
-          "banner_image": "https://example.com/recipe2.jpg"
-        }
-      ]
-    },
-    { "id": 6,
-      "name": "Nettie Mcintyre",
-      "profile_picture": "https://www.ecpi.edu/sites/default/files/CIV%20Sept%2026.png",
-      "year_of_experience": 40,
-      "no_of_recipes": 5,
-      "bio": "Eu pariatur laborum tempor culpa laborum. Eu pariatur in ad do sunt Lorem et excepteur non amet occaecat tempor. Aliquip ut duis esse duis dolor exercitation commodo proident tempor minim do dolor cillum. Proident quis fugiat nisi id culpa incididunt ullamco nisi laboris. Aute aliqua veniam cupidatat ullamco sint tempor culpa laborum deserunt sint ipsum est magna veniam. Exercitation labore minim adipisicing est nulla cillum reprehenderit pariatur fugiat sit quis.\r\nAnim commodo culpa ex mollit enim qui velit consequat. Proident est magna Lorem aliquip anim laboris non Lorem fugiat cupidatat aliqua id magna aute. Ea qui do fugiat culpa cillum. Consequat aute culpa occaecat laboris cupidatat veniam. Pariatur culpa ipsum magna sunt occaecat non minim. Laboris consequat ullamco deserunt et aliquip laboris Lorem do consectetur.\r\n",
-      "likes": 4142,
-      "recipes": [
-        {
-          "name": "Fish Tacos",
-          "banner_image": "https://example.com/recipe5.jpg"
-        },
-        {
-          "name": "Tiramisu",
-          "banner_image": "https://example.com/recipe3.jpg"
-        },
-        {
-          "name": "Quiche Lorraine",
-          "banner_image": "https://example.com/recipe4.jpg"
-        },
-        {
-          "name": "Vegetable Lasagna",
-          "banner_image": "https://example.com/recipe3.jpg"
-        },
-        {
-          "name": "Tomato Soup",
-          "banner_image": "https://example.com/recipe4.jpg"
-        }
-      ]
-    }
-  ]
+[
+  {
+    "id": 1,
+    "name": "Marva Cain",
+    "profile_picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=1380&t=st=1683007163~exp=1683007763~hmac=ac0d8f9b9ca567911bbcf79398d93d5df8d271c383f5aa8798a87e4b75de4106",
+    "year_of_experience": 42,
+    "no_of_recipes": 5,
+    "bio": "Chef Marva Cain is a culinary prodigy whose passion has taken him around the world. Experienced in French, Italian, and Asian cuisine, he has earned repute in the kitchen as well as recognition among the food critics\r\n",
+    "likes": 6119,
+    "recipes": [
+      { "id": 101,
+        "name": "Apple Pie",
+        "banner_image": "https://img.freepik.com/free-photo/homemade-mini-apple-pie-with-cinnamon_114579-15743.jpg?w=1380&t=st=1683139926~exp=1683140526~hmac=0b7318164b2348e69f36ed5e09366937755a37096509bd00dfaa27c8fcbf1286",
+        "ingredients": [
+          "pie crust",
+          "apples",
+          "sugar",
+          "cinnamon",
+          "nutmeg",
+          "butter",
+          "lemon juice"
+        ],
+        "recipe_method": "1. Preheat oven to 375°F (190°C). \n2. Peel and slice apples. Mix with sugar, cinnamon, nutmeg, and lemon juice. \n3. Roll out pie crust and place in pie dish. Pour apple mixture into pie crust. \n4. Cut butter into small pieces and place on top of apples. \n5. Roll out second pie crust and place on top of apples. Cut slits in top crust to allow steam to escape. \n6. Bake for 45-50 minutes or until crust is golden brown."
+      },
+      { "id": 102,
+        "name": "Roast Chicken",
+        "banner_image": "https://img.freepik.com/free-photo/palatable-chicken-with-spices_23-2147765471.jpg?w=1380&t=st=1683140002~exp=1683140602~hmac=c9f2d77f9db61d5c3af5de4782196531f7c3b582b95b89ea998446640b6bf028",
+        "ingredients": [
+          "whole chicken",
+          "butter",
+          "lemon",
+          "garlic",
+          "salt",
+          "pepper"
+        ],
+        "recipe_method": "1. Preheat oven to 425°F (218°C). \n2. Rinse chicken and pat dry. Rub butter all over chicken. Squeeze lemon over chicken and place lemon halves inside cavity of chicken. \n3. Cut garlic cloves in half and place inside cavity of chicken. \n4. Sprinkle salt and pepper all over chicken. \n5. Place chicken in roasting pan and roast for 1 hour and 20 minutes or until internal temperature of chicken reaches 165°F (74°C)."
+      },
+      { "id": 103,
+        "name": "Beef Wellington",
+        "banner_image": "https://img.freepik.com/free-photo/top-view-delicious-christmas-dish-composition_23-2148719861.jpg?w=1380&t=st=1683140125~exp=1683140725~hmac=736e0b303227e29fbcc6583bc4b5bad35ddd48228a001ef86804d2ea4d90e6aa",
+        "ingredients": [
+          "beef tenderloin",
+          "puff pastry",
+          "mushrooms",
+          "shallots",
+          "garlic",
+          "thyme",
+          "butter",
+          "egg"
+        ],
+        "recipe_method": "1. Preheat oven to 425°F (218°C). \n2. Season beef tenderloin with salt and pepper. Sear beef in butter until browned on all sides. \n3. Remove beef from pan and let cool. \n4. In same pan, sauté mushrooms, shallots, garlic, and thyme until tender. \n5. Roll out puff pastry and place beef in center. Top beef with mushroom mixture. \n6. Wrap puff pastry around beef and brush with beaten egg. \n7. Bake for 35-40 minutes or until puff pastry is golden brown and beef is cooked to desired temperature."
+      },
+      { "id": 104,
+        "name": "Pad Thai",
+        "banner_image": "https://img.freepik.com/free-photo/thai-food-noodles-spicy-boil-with-pork-boil-egg_1150-27970.jpg?w=1380&t=st=1683140169~exp=1683140769~hmac=8f577c94ba68fbea952ad8d1d187576f27432e20a5d7aac6a7dc36a5a7594d25",
+        "ingredients": [
+          "rice noodles",
+          "chicken",
+          "eggs",
+          "bean sprouts",
+          "green onions",
+          "peanuts",
+          "lime",
+          "soy sauce",
+          "sugar"
+        ],
+        "recipe_method": "1. Soak rice noodles in hot water for 15-20 minutes or until softened. \n2. In a wok or large pan, cook chicken until browned. Push chicken to the side and add beaten eggs to other side of pan. Scramble the eggs and then mix with the chicken. \n3. Add bean sprouts and green onions to the pan and stir-fry for 1-2 minutes. \n4. Drain the soaked rice noodles and add them to the pan with the chicken and vegetables. \n5. In a separate bowl, mix together lime juice, soy sauce, and sugar. Pour over noodle mixture and toss to combine. \n6. Top with chopped peanuts and serve immediately."
+      },
+      { "id": 105,
+        "name": "Chicken Enchiladas",
+        "banner_image": "https://img.freepik.com/free-photo/mexican-quesadilla-wrap-with-chicken-corn-sweet-pepper-salsa_2829-19734.jpg?w=1380&t=st=1683140214~exp=1683140814~hmac=f05d29fa533544e07a7ec5ee3d29cf7a2c2a27aa78b9c81847ca526b06834070",
+        "ingredients": [
+          "shredded chicken",
+          "tortillas",
+          "enchilada sauce",
+          "cheddar cheese",
+          "sour cream",
+          "cilantro",
+          "green onions"
+        ],
+        "recipe_method": "1. Preheat oven to 350°F (175°C). \n2. Mix shredded chicken with 1/2 cup of enchilada sauce. \n3. Place a scoop of chicken mixture in the center of each tortilla. Roll up tortillas and place seam-side down in a baking dish. \n4. Pour remaining enchilada sauce over tortillas. Sprinkle cheddar cheese over the top. \n5. Bake for 20-25 minutes or until cheese is melted and bubbly. \n6. Top with dollops of sour cream, chopped cilantro, and sliced green onions before serving."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Robinson Wallace",
+    "profile_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?t=st=1683007158~exp=1683007758~hmac=ee44e778b4560f8e1bdee2d0c3710218d26acbeb3be4e9c12cca6b170cede946",
+    "year_of_experience": 18,
+    "no_of_recipes": 5,
+    "bio": "Robinson Wallace is the executive chef at Quo Vadis, a popular sushi bar and restaurant in Seattle. With an unparalleled ability to craft amazing rolls, sushi dishes, and sashimi, he has become one of the most sought-after sushi chefs in the Pacific Northwest.\r\n",
+    "likes": 2580,
+    "recipes": [
+      { "id": 201,
+        "name": "Caesar Salad",
+        "banner_image": "https://img.freepik.com/free-photo/bottom-view-caesar-salad-oval-plate-dark-red-table_140725-129941.jpg?w=1380&t=st=1683140299~exp=1683140899~hmac=b271c03fa495248d7e60f69e6efeeb7e9a594ce710dc653ec2575c0167aa296b",
+        "ingredients": [
+          "romaine lettuce",
+          "Parmesan cheese",
+          "croutons",
+          "Caesar dressing",
+          "lemon juice",
+          "garlic",
+          "Worcestershire sauce",
+          "Dijon mustard",
+          "olive oil"
+        ],
+        "recipe_method": "1. Wash and dry the romaine lettuce leaves, then tear them into bite-sized pieces.\n2. In a small bowl, whisk together the Caesar dressing, lemon juice, garlic, Worcestershire sauce, and Dijon mustard until well combined.\n3. In a large bowl, add the lettuce and croutons, then pour the dressing over the top and toss until everything is evenly coated.\n4. Top with grated Parmesan cheese and serve."
+      },
+      {
+        "id": 202,
+        "name": "Spaghetti Bolognese",
+        "banner_image": "https://img.freepik.com/free-photo/pasta-bolognese-with-ingredients-wooden-table_181624-43407.jpg?w=1380&t=st=1683140807~exp=1683141407~hmac=9f6023f0f0307cd1b87b99852a5602aad64812a3d0fe89ad147429b54a3d0899g",
+        "ingredients": [
+          "spaghetti",
+          "ground beef",
+          "canned tomatoes",
+          "onion",
+          "garlic",
+          "carrots",
+          "celery",
+          "red wine",
+          "olive oil",
+          "salt",
+          "pepper"
+        ],
+        "recipe_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, heat olive oil over medium-high heat. Add chopped onion, garlic, carrots, and celery and cook until the vegetables are softened.\n3. Add the ground beef and cook until browned, stirring frequently to break up any clumps.\n4. Pour in the canned tomatoes and red wine, then bring to a simmer. Season with salt and pepper to taste.\n5. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n6. Serve the sauce over the cooked spaghetti."
+      },
+      { "id": 203,
+        "name": "Cheesecake",
+        "banner_image": "https://img.freepik.com/free-photo/homemade-newyork-cheesecake-with-frozen-berries-mint-healthy-organic-dessert-top-view_114579-9844.jpg?w=1380&t=st=1683140858~exp=1683141458~hmac=1d81c7604261461df4c1639cea752a3afd1e87f4154032686980596dea1cd7b3",
+        "ingredients": [
+          "graham cracker crumbs",
+          "sugar",
+          "butter",
+          "cream cheese",
+          "sour cream",
+          "vanilla extract",
+          "eggs"
+        ],
+        "recipe_method": "1. Preheat oven to 325°F (160°C).\n2. Mix together graham cracker crumbs, sugar, and melted butter until well combined. Press the mixture into the bottom of a 9-inch springform pan.\n3. In a large mixing bowl, beat together cream cheese, sugar, and vanilla extract until smooth. Add in sour cream and beat until well combined.\n4. Add eggs one at a time, beating well after each addition.\n5. Pour the cheesecake filling over the crust and smooth out the top.\n6. Bake for 45-50 minutes or until the cheesecake is set but still slightly jiggly in the center.\n7. Let the cheesecake cool to room temperature, then chill in the refrigerator for at least 2 hours before serving."
+      },
+      {
+        "id": 204,
+        "name": "Spinach Quiche",
+        "banner_image": "https://img.freepik.com/free-photo/pie-with-meat_155003-356.jpg?w=1380&t=st=1683140914~exp=1683141514~hmac=fd4f5670782f8b496d9e4924a273c2e91c1c95a92aa0285c703f677893219b49",
+        "ingredients": [
+          "pie crust",
+          "spinach",
+          "cheddar cheese",
+          "eggs",
+          "heavy cream",
+          "onion",
+          "garlic",
+          "salt",
+          "pepper",
+          "nutmeg"
+        ],
+        "recipe_method": "1. Preheat oven to 375°F (190°C).\n2. Roll out the pie crust and place it into a 9-inch pie dish.\n3. In a large skillet, sauté the onion and garlic until softened. Add the spinach and cook until wilted. Season with salt, pepper, and nutmeg.\n4. Spread the spinach mixture evenly over the bottom of the pie crust.\n5. In a separate bowl, whisk together the eggs and heavy cream until well combined. Season with salt and pepper.\n6. Pour the egg mixture over the spinach mixture in the pie crust.\n7. Top with shredded cheddar cheese.\n8. Bake for 35-40 minutes or until the quiche is set and the crust is golden brown.\n9. Let the quiche cool for a few minutes before slicing and serving."
+      },
+      { "id": 205,
+        "name": "Beef Fajitas",
+        "banner_image": "https://img.freepik.com/free-photo/caucasian-sac-ichi-with-finely-grilled-meat-bell-peppers-other-vegetables_114579-1952.jpg?w=1380&t=st=1683141070~exp=1683141670~hmac=bf57e708a0895c3c3bd28096c5b0fa932e324cdbaeec937026509757313f6109",
+        "ingredients": [
+          "flank steak",
+          "bell peppers",
+          "onion",
+          "lime",
+          "olive oil",
+          "garlic",
+          "chili powder",
+          "cumin",
+          "paprika",
+          "salt",
+          "pepper",
+          "tortillas"
+        ],
+        "recipe_method": "1. Preheat grill or grill pan to medium-high heat.\n2. Season flank steak with chili powder, cumin, paprika, salt, and pepper.\n3. Grill steak for 5-6 minutes per side for medium-rare, or until desired doneness is reached.\n4. Let steak rest for a few minutes before slicing thinly against the grain.\n5. In a large skillet, sauté sliced bell peppers and onion in olive oil until softened.\n6. Add minced garlic and cook for an additional minute.\n7. Squeeze lime juice over the peppers and onions, then season with salt and pepper to taste.\n8. Heat tortillas on the grill or in a dry skillet until warmed through.\n9. Assemble fajitas by placing sliced steak and sautéed peppers and onions onto warmed tortillas.\n10. Serve immediately."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Brady Lopez",
+    "profile_picture": "https://img.freepik.com/free-photo/image-cheerful-young-cook-uniform-standing-isolated-grey-wall_171337-5340.jpg?t=st=1683007158~exp=1683007758~hmac=17af730f7632cf81eb3a8624902175b9e2dc045156850525faccfb5ed18d00fb",
+    "year_of_experience": 11,
+    "no_of_recipes": 5,
+    "bio": "Chef Brady Lopez is a culinary prodigy whose passion has taken him around the world. Experienced in French, Italian, and Asian cuisine, he has earned repute in the kitchen as well as recognition among the food critics.\r\n",
+    "likes": 7762,
+    "recipes": [
+      { "id": 301,
+        "name": "Caesar Salad",
+        "banner_image": "https://img.freepik.com/free-photo/flat-lay-salad-with-chicken-sesame-seeds_23-2148700369.jpg?w=1380&t=st=1683141444~exp=1683142044~hmac=c782864db3e88657c97ca3a88b153e57cc0ab398b645c68b00a067eb2c2f5c70",
+        "ingredients": [
+          "romaine lettuce",
+          "Parmesan cheese",
+          "croutons",
+          "Caesar dressing",
+          "lemon juice",
+          "garlic",
+          "Worcestershire sauce",
+          "Dijon mustard",
+          "olive oil"
+        ],
+        "recipe_method": "1. Wash and dry the romaine lettuce leaves, then tear them into bite-sized pieces.\n2. In a small bowl, whisk together the Caesar dressing, lemon juice, garlic, Worcestershire sauce, and Dijon mustard until well combined.\n3. In a large bowl, add the lettuce and croutons, then pour the dressing over the top and toss until everything is evenly coated.\n4. Top with grated Parmesan cheese and serve."
+      },
+      {"id": 302,
+        "name": "Spaghetti Bolognese",
+        "banner_image": "https://img.freepik.com/free-photo/three-colors-rotini-pasta_1150-42335.jpg?w=1380&t=st=1683141485~exp=1683142085~hmac=3eefcdec5b2c79e49dc2250f2f2fcacaedd546ca1467c17de9e20cba57092582",
+        "ingredients": [
+          "spaghetti",
+          "ground beef",
+          "canned tomatoes",
+          "onion",
+          "garlic",
+          "carrots",
+          "celery",
+          "red wine",
+          "olive oil",
+          "salt",
+          "pepper"
+        ],
+        "recipe_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, heat olive oil over medium-high heat. Add chopped onion, garlic, carrots, and celery and cook until the vegetables are softened.\n3. Add the ground beef and cook until browned, stirring frequently to break up any clumps.\n4. Pour in the canned tomatoes and red wine, then bring to a simmer. Season with salt and pepper to taste.\n5. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n6. Serve the sauce over the cooked spaghetti."
+      },
+      { "id": 303,
+        "name": "Cheesecake",
+        "banner_image": "https://img.freepik.com/free-photo/piece-cheesecake-with-chocolate-strawberries-top_1340-23215.jpg?w=1380&t=st=1683141571~exp=1683142171~hmac=46546c0178283939dcaff845492358d53db4a23ab3e5d7dfadc7f4f0f8c6e443g",
+        "ingredients": [
+          "graham cracker crumbs",
+          "sugar",
+          "butter",
+          "cream cheese",
+          "sour cream",
+          "vanilla extract",
+          "eggs"
+        ],
+        "recipe_method": "1. Preheat oven to 325°F (160°C).\n2. Mix together graham cracker crumbs, sugar, and melted butter until well combined. Press the mixture into the bottom of a 9-inch springform pan.\n3. In a large mixing bowl, beat together cream cheese, sugar, and vanilla extract until smooth. Add in sour cream and beat until well combined.\n4. Add eggs one at a time, beating well after each addition.\n5. Pour the cheesecake filling over the crust and smooth out the top.\n6. Bake for 45-50 minutes or until the cheesecake is set but still slightly jiggly in the center.\n7. Let the cheesecake cool to room temperature, then chill in the refrigerator for at least 2 hours before serving."
+      },
+      {"id": 304,
+        "name": "Spinach Quiche",
+        "banner_image": "https://img.freepik.com/free-photo/fresh-vegetarian-meal-wooden-plate-with-herbs-generated-by-ai_188544-11764.jpg?w=1380&t=st=1683141613~exp=1683142213~hmac=8c4e73a4cdd87d96ab687a074ca1775c8561da010212444485ec245bd7811ee2",
+        "ingredients": [
+          "pie crust",
+          "spinach",
+          "cheddar cheese",
+          "eggs",
+          "heavy cream",
+          "onion",
+          "garlic",
+          "salt",
+          "pepper",
+          "nutmeg"
+        ],
+        "recipe_method": "1. Preheat oven to 375°F (190°C).\n2. Roll out the pie crust and place it into a 9-inch pie dish.\n3. In a large skillet, sauté the onion and garlic until softened. Add the spinach and cook until wilted. Season with salt, pepper, and nutmeg.\n4. Spread the spinach mixture evenly over the bottom of the pie crust.\n5. In a separate bowl, whisk together the eggs and heavy cream until well combined. Season with salt and pepper.\n6. Pour the egg mixture over the spinach mixture in the pie crust.\n7. Top with shredded cheddar cheese.\n8. Bake for 35-40 minutes or until the quiche is set and the crust is golden brown.\n9. Let the quiche cool for a few minutes before slicing and serving."
+      },
+      {"id": 305,
+        "name": "Beef Fajitas",
+        "banner_image": "https://img.freepik.com/free-photo/top-view-traditional-turkish-iskender-doner-with-yogurt-plate_140725-10417.jpg?w=740&t=st=1683141683~exp=1683142283~hmac=888778bbf9b74e5f3e164d28f3ee0ee06f9c6891649fdb3b7935ce33c429cd93",
+        "ingredients": [
+          "flank steak",
+          "bell peppers",
+          "onion",
+          "lime",
+          "olive oil",
+          "garlic",
+          "chili powder",
+          "cumin",
+          "paprika",
+          "salt",
+          "pepper",
+          "tortillas"
+        ],
+        "recipe_method": "1. Preheat grill or grill pan to medium-high heat.\n2. Season flank steak with chili powder, cumin, paprika, salt, and pepper.\n3. Grill steak for 5-6 minutes per side for medium-rare, or until desired doneness is reached.\n4. Let steak rest for a few minutes before slicing thinly against the grain.\n5. In a large skillet, sauté sliced bell peppers and onion in olive oil until softened.\n6. Add minced garlic and cook for an additional minute.\n7. Squeeze lime juice over the peppers and onions, then season with salt and pepper to taste.\n8. Heat tortillas on the grill or in a dry skillet until warmed through.\n9. Assemble fajitas by placing sliced steak and sautéed peppers and onions onto warmed tortillas.\n10. Serve immediately."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Annette Carson",
+    "profile_picture": "https://t3.ftcdn.net/jpg/03/52/28/98/360_F_352289873_KwQHjXfSdndjNjPNmJqzrzgEuBuVUSjf.jpg",
+    "year_of_experience": 34,
+    "no_of_recipes": 5,
+    "bio": "Chef Annette Carson is a well-renowned pastry chef in California. She first rose to prominence when her Roast Chicken was awarded Best of Show at the San Diego Food and Beverage Festival. Since then she has been mastering her craft and designing tasty treats for the people.\r\n",
+    "likes": 2097,
+    "recipes": [
+      { "id": 401,
+        "name": "Caesar Salad",
+        "banner_image": "https://img.freepik.com/free-photo/top-view-delicious-vegetable-salad-sliced-food-with-fresh-ingredients-dark-background-salad-meal-snack-lunch-food-color_140725-96830.jpg?w=1380&t=st=1683141837~exp=1683142437~hmac=88501c92484818ded5d08f4eaa207e7b5dcc9e6c7d663c67b87d9bad4b98cc82",
+        "ingredients": [
+          "romaine lettuce",
+          "Parmesan cheese",
+          "croutons",
+          "Caesar dressing",
+          "lemon juice",
+          "garlic",
+          "Worcestershire sauce",
+          "Dijon mustard",
+          "olive oil"
+        ],
+        "recipe_method": "1. Wash and dry the romaine lettuce leaves, then tear them into bite-sized pieces.\n2. In a small bowl, whisk together the Caesar dressing, lemon juice, garlic, Worcestershire sauce, and Dijon mustard until well combined.\n3. In a large bowl, add the lettuce and croutons, then pour the dressing over the top and toss until everything is evenly coated.\n4. Top with grated Parmesan cheese and serve."
+      },
+      { "id": 402,
+        "name": "Spaghetti Bolognese",
+        "banner_image": "https://img.freepik.com/free-photo/spaghetti-black-cup-with-tomatoes-lettuce_1150-23163.jpg?w=1380&t=st=1683141879~exp=1683142479~hmac=3736c2bee8805ed0bd236035b5b71604da9462205ef1050cff438a347af5bb6b",
+        "ingredients": [
+          "spaghetti",
+          "ground beef",
+          "canned tomatoes",
+          "onion",
+          "garlic",
+          "carrots",
+          "celery",
+          "red wine",
+          "olive oil",
+          "salt",
+          "pepper"
+        ],
+        "recipe_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, heat olive oil over medium-high heat. Add chopped onion, garlic, carrots, and celery and cook until the vegetables are softened.\n3. Add the ground beef and cook until browned, stirring frequently to break up any clumps.\n4. Pour in the canned tomatoes and red wine, then bring to a simmer. Season with salt and pepper to taste.\n5. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n6. Serve the sauce over the cooked spaghetti."
+      },
+      {"id": 403,
+        "name": "Cheesecake",
+        "banner_image": "https://example.com/recipe1.jpg",
+        "ingredients": [
+          "graham cracker crumbs",
+          "sugar",
+          "butter",
+          "cream cheese",
+          "sour cream",
+          "vanilla extract",
+          "eggs"
+        ],
+        "recipe_method": "1. Preheat oven to 325°F (160°C).\n2. Mix together graham cracker crumbs, sugar, and melted butter until well combined. Press the mixture into the bottom of a 9-inch springform pan.\n3. In a large mixing bowl, beat together cream cheese, sugar, and vanilla extract until smooth. Add in sour cream and beat until well combined.\n4. Add eggs one at a time, beating well after each addition.\n5. Pour the cheesecake filling over the crust and smooth out the top.\n6. Bake for 45-50 minutes or until the cheesecake is set but still slightly jiggly in the center.\n7. Let the cheesecake cool to room temperature, then chill in the refrigerator for at least 2 hours before serving."
+      },
+      {"id": 404,
+        "name": "Spinach Quiche",
+        "banner_image": "https://example.com/recipe5.jpg",
+        "ingredients": [
+          "pie crust",
+          "spinach",
+          "cheddar cheese",
+          "eggs",
+          "heavy cream",
+          "onion",
+          "garlic",
+          "salt",
+          "pepper",
+          "nutmeg"
+        ],
+        "recipe_method": "1. Preheat oven to 375°F (190°C).\n2. Roll out the pie crust and place it into a 9-inch pie dish.\n3. In a large skillet, sauté the onion and garlic until softened. Add the spinach and cook until wilted. Season with salt, pepper, and nutmeg.\n4. Spread the spinach mixture evenly over the bottom of the pie crust.\n5. In a separate bowl, whisk together the eggs and heavy cream until well combined. Season with salt and pepper.\n6. Pour the egg mixture over the spinach mixture in the pie crust.\n7. Top with shredded cheddar cheese.\n8. Bake for 35-40 minutes or until the quiche is set and the crust is golden brown.\n9. Let the quiche cool for a few minutes before slicing and serving."
+      },
+      {"id": 405,
+        "name": "Beef Fajitas",
+        "banner_image": "https://example.com/recipe4.jpg",
+        "ingredients": [
+          "flank steak",
+          "bell peppers",
+          "onion",
+          "lime",
+          "olive oil",
+          "garlic",
+          "chili powder",
+          "cumin",
+          "paprika",
+          "salt",
+          "pepper",
+          "tortillas"
+        ],
+        "recipe_method": "1. Preheat grill or grill pan to medium-high heat.\n2. Season flank steak with chili powder, cumin, paprika, salt, and pepper.\n3. Grill steak for 5-6 minutes per side for medium-rare, or until desired doneness is reached.\n4. Let steak rest for a few minutes before slicing thinly against the grain.\n5. In a large skillet, sauté sliced bell peppers and onion in olive oil until softened.\n6. Add minced garlic and cook for an additional minute.\n7. Squeeze lime juice over the peppers and onions, then season with salt and pepper to taste.\n8. Heat tortillas on the grill or in a dry skillet until warmed through.\n9. Assemble fajitas by placing sliced steak and sautéed peppers and onions onto warmed tortillas.\n10. Serve immediately."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Rebecca Hendricks",
+    "profile_picture": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
+    "year_of_experience": 15,
+    "no_of_recipes": 5,
+    "bio": " London-based chef Rebecca Hendricks has been honing his skills in Spanish cuisine since his early days in Barcelona. With a passion for creating traditional flavours with a modern twist, he has established himself as an acclaimed chef in the city.\r\n",
+    "likes": 4016,
+    "recipes": [
+      { "id": 501,
+        "name": "Caesar Salad",
+        "banner_image": "https://example.com/recipe3.jpg",
+        "ingredients": [
+          "romaine lettuce",
+          "Parmesan cheese",
+          "croutons",
+          "Caesar dressing",
+          "lemon juice",
+          "garlic",
+          "Worcestershire sauce",
+          "Dijon mustard",
+          "olive oil"
+        ],
+        "recipe_method": "1. Wash and dry the romaine lettuce leaves, then tear them into bite-sized pieces.\n2. In a small bowl, whisk together the Caesar dressing, lemon juice, garlic, Worcestershire sauce, and Dijon mustard until well combined.\n3. In a large bowl, add the lettuce and croutons, then pour the dressing over the top and toss until everything is evenly coated.\n4. Top with grated Parmesan cheese and serve."
+      },
+      {"id": 502,
+        "name": "Spaghetti Bolognese",
+        "banner_image": "https://example.com/recipe1.jpg",
+        "ingredients": [
+          "spaghetti",
+          "ground beef",
+          "canned tomatoes",
+          "onion",
+          "garlic",
+          "carrots",
+          "celery",
+          "red wine",
+          "olive oil",
+          "salt",
+          "pepper"
+        ],
+        "recipe_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, heat olive oil over medium-high heat. Add chopped onion, garlic, carrots, and celery and cook until the vegetables are softened.\n3. Add the ground beef and cook until browned, stirring frequently to break up any clumps.\n4. Pour in the canned tomatoes and red wine, then bring to a simmer. Season with salt and pepper to taste.\n5. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n6. Serve the sauce over the cooked spaghetti."
+      },
+      {"id": 503,
+        "name": "Cheesecake",
+        "banner_image": "https://example.com/recipe1.jpg",
+        "ingredients": [
+          "graham cracker crumbs",
+          "sugar",
+          "butter",
+          "cream cheese",
+          "sour cream",
+          "vanilla extract",
+          "eggs"
+        ],
+        "recipe_method": "1. Preheat oven to 325°F (160°C).\n2. Mix together graham cracker crumbs, sugar, and melted butter until well combined. Press the mixture into the bottom of a 9-inch springform pan.\n3. In a large mixing bowl, beat together cream cheese, sugar, and vanilla extract until smooth. Add in sour cream and beat until well combined.\n4. Add eggs one at a time, beating well after each addition.\n5. Pour the cheesecake filling over the crust and smooth out the top.\n6. Bake for 45-50 minutes or until the cheesecake is set but still slightly jiggly in the center.\n7. Let the cheesecake cool to room temperature, then chill in the refrigerator for at least 2 hours before serving."
+      },
+      {"id": 504,
+        "name": "Spinach Quiche",
+        "banner_image": "https://example.com/recipe5.jpg",
+        "ingredients": [
+          "pie crust",
+          "spinach",
+          "cheddar cheese",
+          "eggs",
+          "heavy cream",
+          "onion",
+          "garlic",
+          "salt",
+          "pepper",
+          "nutmeg"
+        ],
+        "recipe_method": "1. Preheat oven to 375°F (190°C).\n2. Roll out the pie crust and place it into a 9-inch pie dish.\n3. In a large skillet, sauté the onion and garlic until softened. Add the spinach and cook until wilted. Season with salt, pepper, and nutmeg.\n4. Spread the spinach mixture evenly over the bottom of the pie crust.\n5. In a separate bowl, whisk together the eggs and heavy cream until well combined. Season with salt and pepper.\n6. Pour the egg mixture over the spinach mixture in the pie crust.\n7. Top with shredded cheddar cheese.\n8. Bake for 35-40 minutes or until the quiche is set and the crust is golden brown.\n9. Let the quiche cool for a few minutes before slicing and serving."
+      },
+      { "id": 505,
+        "name": "Beef Fajitas",
+        "banner_image": "https://example.com/recipe4.jpg",
+        "ingredients": [
+          "flank steak",
+          "bell peppers",
+          "onion",
+          "lime",
+          "olive oil",
+          "garlic",
+          "chili powder",
+          "cumin",
+          "paprika",
+          "salt",
+          "pepper",
+          "tortillas"
+        ],
+        "recipe_method": "1. Preheat grill or grill pan to medium-high heat.\n2. Season flank steak with chili powder, cumin, paprika, salt, and pepper.\n3. Grill steak for 5-6 minutes per side for medium-rare, or until desired doneness is reached.\n4. Let steak rest for a few minutes before slicing thinly against the grain.\n5. In a large skillet, sauté sliced bell peppers and onion in olive oil until softened.\n6. Add minced garlic and cook for an additional minute.\n7. Squeeze lime juice over the peppers and onions, then season with salt and pepper to taste.\n8. Heat tortillas on the grill or in a dry skillet until warmed through.\n9. Assemble fajitas by placing sliced steak and sautéed peppers and onions onto warmed tortillas.\n10. Serve immediately."
+      }
+    ]
+  },
+  { 
+    "id": 6,
+    "name": "Nettie Mcintyre",
+    "profile_picture": "https://www.ecpi.edu/sites/default/files/CIV%20Sept%2026.png",
+    "year_of_experience": 40,
+    "no_of_recipes": 5,
+    "bio": " Nettie Mcintyre is a highly experienced chef with 24 years of professional cooking under his belt. He has earned a name for himself as a go-to chef for traditional Mexican dishes, and is currently working as head chef at Akoko in California.\r\n",
+    "likes": 4142,
+    "recipes": [
+      { "id": 601,
+        "name": "Caesar Salad",
+        "banner_image": "https://example.com/recipe3.jpg",
+        "ingredients": [
+          "romaine lettuce",
+          "Parmesan cheese",
+          "croutons",
+          "Caesar dressing",
+          "lemon juice",
+          "garlic",
+          "Worcestershire sauce",
+          "Dijon mustard",
+          "olive oil"
+        ],
+        "recipe_method": "1. Wash and dry the romaine lettuce leaves, then tear them into bite-sized pieces.\n2. In a small bowl, whisk together the Caesar dressing, lemon juice, garlic, Worcestershire sauce, and Dijon mustard until well combined.\n3. In a large bowl, add the lettuce and croutons, then pour the dressing over the top and toss until everything is evenly coated.\n4. Top with grated Parmesan cheese and serve."
+      },
+      {"id": 602,
+        "name": "Spaghetti Bolognese",
+        "banner_image": "https://example.com/recipe1.jpg",
+        "ingredients": [
+          "spaghetti",
+          "ground beef",
+          "canned tomatoes",
+          "onion",
+          "garlic",
+          "carrots",
+          "celery",
+          "red wine",
+          "olive oil",
+          "salt",
+          "pepper"
+        ],
+        "recipe_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, heat olive oil over medium-high heat. Add chopped onion, garlic, carrots, and celery and cook until the vegetables are softened.\n3. Add the ground beef and cook until browned, stirring frequently to break up any clumps.\n4. Pour in the canned tomatoes and red wine, then bring to a simmer. Season with salt and pepper to taste.\n5. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n6. Serve the sauce over the cooked spaghetti."
+      },
+      { "id": 603,
+        "name": "Cheesecake",
+        "banner_image": "https://example.com/recipe1.jpg",
+        "ingredients": [
+          "graham cracker crumbs",
+          "sugar",
+          "butter",
+          "cream cheese",
+          "sour cream",
+          "vanilla extract",
+          "eggs"
+        ],
+        "recipe_method": "1. Preheat oven to 325°F (160°C).\n2. Mix together graham cracker crumbs, sugar, and melted butter until well combined. Press the mixture into the bottom of a 9-inch springform pan.\n3. In a large mixing bowl, beat together cream cheese, sugar, and vanilla extract until smooth. Add in sour cream and beat until well combined.\n4. Add eggs one at a time, beating well after each addition.\n5. Pour the cheesecake filling over the crust and smooth out the top.\n6. Bake for 45-50 minutes or until the cheesecake is set but still slightly jiggly in the center.\n7. Let the cheesecake cool to room temperature, then chill in the refrigerator for at least 2 hours before serving."
+      },
+      { "id": 604,
+        "name": "Spinach Quiche",
+        "banner_image": "https://example.com/recipe5.jpg",
+        "ingredients": [
+          "pie crust",
+          "spinach",
+          "cheddar cheese",
+          "eggs",
+          "heavy cream",
+          "onion",
+          "garlic",
+          "salt",
+          "pepper",
+          "nutmeg"
+        ],
+        "recipe_method": "1. Preheat oven to 375°F (190°C).\n2. Roll out the pie crust and place it into a 9-inch pie dish.\n3. In a large skillet, sauté the onion and garlic until softened. Add the spinach and cook until wilted. Season with salt, pepper, and nutmeg.\n4. Spread the spinach mixture evenly over the bottom of the pie crust.\n5. In a separate bowl, whisk together the eggs and heavy cream until well combined. Season with salt and pepper.\n6. Pour the egg mixture over the spinach mixture in the pie crust.\n7. Top with shredded cheddar cheese.\n8. Bake for 35-40 minutes or until the quiche is set and the crust is golden brown.\n9. Let the quiche cool for a few minutes before slicing and serving."
+      },
+      { "id": 605,
+        "name": "Beef Fajitas",
+        "banner_image": "https://example.com/recipe4.jpg",
+        "ingredients": [
+          "flank steak",
+          "bell peppers",
+          "onion",
+          "lime",
+          "olive oil",
+          "garlic",
+          "chili powder",
+          "cumin",
+          "paprika",
+          "salt",
+          "pepper",
+          "tortillas"
+        ],
+        "recipe_method": "1. Preheat grill or grill pan to medium-high heat.\n2. Season flank steak with chili powder, cumin, paprika, salt, and pepper.\n3. Grill steak for 5-6 minutes per side for medium-rare, or until desired doneness is reached.\n4. Let steak rest for a few minutes before slicing thinly against the grain.\n5. In a large skillet, sauté sliced bell peppers and onion in olive oil until softened.\n6. Add minced garlic and cook for an additional minute.\n7. Squeeze lime juice over the peppers and onions, then season with salt and pepper to taste.\n8. Heat tortillas on the grill or in a dry skillet until warmed through.\n9. Assemble fajitas by placing sliced steak and sautéed peppers and onions onto warmed tortillas.\n10. Serve immediately."
+      }
+    ]
+  }
+]
